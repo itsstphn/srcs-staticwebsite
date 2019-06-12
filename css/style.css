@@ -1,4 +1,8 @@
 /* primary-color: #7E0606; */
+@font-face {
+	font-family: oldEnglishText;
+	src: url('fonts/OLD.ttf');
+}
 
 *,
 *::before,
@@ -150,11 +154,11 @@ h1, h2, h3, h4, h5, h6 {
 
 #main-nav .logo .logo-name{
     align-self: center;
-    font-size: 1.75rem;
-    font-weight: lighter;
+    font-size: 2.3rem;
 }
 
 #main-nav h1 {
+	font-family: oldEnglishText;
     margin: 0;
 }
 
