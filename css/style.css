@@ -360,4 +360,37 @@ h6 {
 .ownership .container {
     text-align: center;
     color: #fff;
+
+}
+
+.ownership-bg-dark {
+    background-color: rgba(212, 137, 0, .7);
+        padding: 1rem;
+}
+
+input[type='submit'] {
+    width: 90%;
+}
+
+.ownership input[type='text'] {
+    width: 90%;
+    padding: .5rem;
+    margin: .5rem;
+}
+
+.small-container {
+    max-width: 20rem;
+    margin: 0 auto;
+}
+
+.special {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, cyan, violet);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 1rem;
+}
+.bg-span {
+    background-color: #000;
+    padding: .1rem .8rem;
+    border-radius: 3px;
 }
