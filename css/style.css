@@ -47,13 +47,6 @@ h6 {
   line-height: 1.3;
 }
 
-.notif {
-  background: rgb(250, 215, 20);
-  width: 100%;
-  text-align: center;
-  color: black;
-}
-
 .container {
   max-width: 1200px;
   margin: auto;
